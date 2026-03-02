@@ -2,7 +2,7 @@
 -- Phase II B: Insert Statements + Views [v1] [February 23rd, 2026]
 
 -- Team __
--- Team Member Name (GT username)
+-- Nicholas Hoyt (nhoyt6)
 -- Team Member Name (GT username)
 -- Team Member Name (GT username)
 -- Team Member Name (GT username)
